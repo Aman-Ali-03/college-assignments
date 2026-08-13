@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+city = input("Enter your city: ")
+salary = float(input("Enter your salary: "))
+print(f"Hello {name}!")
+print(f"You are {age} years old.")
+print(f"Your live in {city}")
+print(f"Your monthly package is {salary}")
