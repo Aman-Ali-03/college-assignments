@@ -1,0 +1,12 @@
+set = {10,20,30,40,50,60,70,80,90}
+print('Without remove anything: ')
+print(set)
+set.remove(10)
+print('After using remove function: ')
+print(set)
+set.discard(20)
+print('After using discard function: ')
+print(set)
+set.pop()
+print('After using pop function: ')
+print(set)
