@@ -1,0 +1,3 @@
+Python is easy to learn.
+Python work with indentation.
+Python is Widly use in data science.
