@@ -1,3 +1,6 @@
-Python is easy to learn.
-Python work with indentation.
-Python is Widly use in data science.
+I am learning python programming.
+This line does not mention the language.
+Python is great for beginners.
+Coding in C and Java is also fun.
+The quick brown fox jumps over the lazy dog.
+Python scripts can automate tasks easily.

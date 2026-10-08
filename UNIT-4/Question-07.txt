@@ -1,0 +1,3 @@
+I am learning python programming.
+Python is great for beginners.
+Python scripts can automate tasks easily.
