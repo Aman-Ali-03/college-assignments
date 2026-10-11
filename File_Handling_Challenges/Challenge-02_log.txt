@@ -1,0 +1,7 @@
+INFO: Program started
+WARNING: Student marks are missing for roll number 1005
+INFO: File opened successfully
+ERROR: Unable to open marks.txt
+WARNING: Invalid marks found for roll number 1020
+INFO: Program finished
+ERROR: Failed to read student record
